@@ -1,5 +1,5 @@
 # NBK
 
-Load the NBK logo.
+Module to load the NBK Library logo for the Magic Mirror.
 
 No config.
