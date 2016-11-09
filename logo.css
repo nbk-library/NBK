@@ -1,7 +1,0 @@
-body {
-	background-color: black;
-	background-image: url("logo.bmp");
-	-webkit-transform: translate3d(0, 0, 0);
-	-webkit-backface-visibility: hidden;
-	-webkit-perspective: 1000;
-}
